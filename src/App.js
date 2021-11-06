@@ -7,16 +7,6 @@ import { BrowserRouter, Route, Switch, Redirect } from "react-router-dom";
 
 export default function App() {
   return (
-    // <div
-    //   className="App"
-    //   style={{ background: "#112233", color: "#ffff", height: "100vh" }}
-    // >
-    //   <>
-    //     <ThemeProvider>
-    //       <Magazine />
-    //     </ThemeProvider>
-    //   </>
-    // </div>
     <BrowserRouter>
       <Switch>
         <Route path="/" component={Magazine} exact />

@@ -1,9 +1,8 @@
 import React from "react";
 import Fade from "react-reveal/Fade";
-import Axios from "axios";
 import { makeStyles, Grid } from "@material-ui/core";
 import MagCard2 from "./MagCard2";
-Axios.defaults.withCredentials = true;
+
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,

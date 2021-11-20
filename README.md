@@ -8,6 +8,10 @@ just visit my webApp http://devcodebase.com
 
 yarn, yarn start
 
+# Demo
+
+http://devcodebase.com:7001/6092b28a8fda4729541cf5a5
+
 # picture
 
 ![Magazin Sample](https://github.com/masoud-bakhshi/magazine-sample/blob/main/magazine.png)

@@ -1,5 +1,7 @@
 # This web app created by Masoud Bakhshi
 
+This code is a magazine with react js
+
 # React js
 
 just visit my webApp http://devcodebase.com
